@@ -38,14 +38,14 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## Témy zaverečných prác
-### 2022
+### 2022-2023
 1. Automatizácia reklamných kampaní
 2. Nasadenie a využívanie Google Analytics 4 vo vybranej spoločnosti
 3. Remarketing v PPC kampaniach Google Ads
 4. Možnosti využitia Google Ads v podmienkach vybraného podniku
 5. Využitie umelej inteligencie v copywritingu
 
-### 2021
+### 2021-2022
 1. Možnosti využitia Google Analytics v podmienkach vybraného podniku
 2. Budovanie značky prostredníctvom sociálnych sietí
 3. Facebook a jeho využitie v podnikaní
@@ -53,7 +53,7 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 5. YouTube a jeho využitie v podnikaní
 6. LinkedIn a jeho využitie vo vybranej spoločnosti 
 
-### 2022
+### 2020-2021
 1. Digitálny marketing: online reklama a jej použitie
 2. Marketing na sociálnych sieťach
 3. Marketing na sociálnych sieťach vybraného podniku
