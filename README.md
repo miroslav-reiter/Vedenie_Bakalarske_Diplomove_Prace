@@ -10,7 +10,7 @@
 3. Za 1. semester vypracovať **projekt Bc./DP práce**
 4. Viesť si **výkaz konzultácií**, kde vám na konci semestra udelím známku
 
-Všetky dokumenty sú tu na **GitHube** v **priečinku Dokumenty**
+Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
 ## Hypotézy
 
