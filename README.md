@@ -13,12 +13,13 @@
 
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
-## Odporúčania
-1. Používať na zdroje Zotero/Mendeley/Inú aplikáciu
-2. Do práce pridať vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky (v dokumentoch šablóny)
+## Odporúčania a tipy
+1. Používať na zdroje [**Zotero**](https://www.zotero.org/), [**Mendeley**](https://www.mendeley.com/), inú aplikáciu
+2. Do práce pridať **vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky** (v dokumentoch šablóny)
+3. Štruktúrovať celý dokument cez **Nadpisy** (N1-H1) a **podnadpisy** (N2-H2). Boh chráň robiť obsah cez písanie bodiek...
+4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu Vložiť Popis (Pravé tlačidlo myši na obrázok alebo)
 
 ## Hypotézy
-
 Hypotéza je výskumný predpoklad. To znamená, že vyjadruje, čo si **vy osobne myslíte o danej problematike a probléme**. Vyjadruje určitý **názor výskumníka**.
 
 Hypotézy sa formulujú, tak aby išlo o **vzťah 2 prvkov - premenných**, (napr. medzi chlapcami a dievčatami, 2 nástrojmi, 2 technológiami, 2 stavmi, 2 jazykmi, 2 školami, 2 ročníkmi a pod.). Ak formulácia nevyjadruje vzťah, nejde o hypotézu, alebo je hypotéza nesprávna (zlá). 
