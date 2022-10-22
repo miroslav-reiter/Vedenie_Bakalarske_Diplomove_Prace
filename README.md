@@ -24,10 +24,11 @@ Zlaté pravidlá hypotézy:
 3)	Hypotéza vyjadruje vzťah medzi 2 premennými (menší, väčší, slabší a pod.). 
 4)	Hypotéza sa musí dať testovať (skúmať); premenné, ktoré obsahuje sa musia dať merať alebo kategorizovať.  
 
-**Prečítajte si Gavor**u vid. zdroj nižšie.
+**Prečítajte si Gavoru** vid. zdroj nižšie. Kto má rad knihy odporúčam [**Dušan Katuščák**: Ako písať záverečné a kvalifikačné práce](https://www.martinus.sk/?uItem=38249)
 
-Zdroj:
+Zdroj:  
 Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [online]. Bratislava : Univerzita Komenského, 2010. Dostupné na: http://www.e-metodologia.fedu.uniba.sk/ ISBN 978–80–223–2951–4.
 
 ## 📈 YouTube video záznamy z konzultácií Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
+
