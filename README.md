@@ -17,7 +17,7 @@ Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://githu
 1. Používať na zdroje [**Zotero**](https://www.zotero.org/), [**Mendeley**](https://www.mendeley.com/), inú aplikáciu
 2. Do práce pridať **vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky** (v dokumentoch šablóny)
 3. Štruktúrovať celý dokument cez **Nadpisy** (N1-H1) a **podnadpisy** (N2-H2). Boh chráň robiť obsah cez písanie bodiek...
-4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu Vložiť Popis (Pravé tlačidlo myši na obrázok alebo)
+4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu **Vložiť Popis** (Pravé tlačidlo myši na obrázok alebo)
 
 ## 🧪 Hypotézy
 Hypotéza je výskumný predpoklad. To znamená, že vyjadruje, čo si **vy osobne myslíte o danej problematike a probléme**. Vyjadruje určitý **názor výskumníka**.
