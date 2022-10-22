@@ -7,10 +7,15 @@
 ## 👨‍🏫 Čo treba za 1. semester k BC/DP práci
 1. Preštudovať **smernicu dekana** (Vnútorný predpis) k záverečným prácami (pozrieť či na webe nie je aktualizovaná verzia)
 2. Oboznámiť sa s **normou o citovaní dokumentov**: dokument [Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
-3. Za 1. semester vypracovať **projekt Bc./DP práce**
-4. Viesť si **výkaz konzultácií**, kde vám na konci semestra udelím známku
+3. Pozrite si [**CRZP Centrálny Register Záverečných Prác**](https://opac.crzp.sk/?fn=*AdvancedSearch&search=advanced&entity=0&seo=CRZP-Hľadanie). Moje práce a práce mojich študentov. Môžete sa inšpirovať najmä zdrojmi ak máte príbuznú/podobnú tému.
+4. Za 1. semester vypracovať **projekt Bc./DP práce**
+5. Viesť si **výkaz konzultácií**, kde vám na konci semestra udelím známku
 
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
+
+## Odporúčania
+1. Používať na zdroje Zotero/Mendeley/Inú aplikáciu
+2. Do práce pridať vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky (v dokumentoch šablóny)
 
 ## Hypotézy
 
@@ -32,3 +37,24 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 ## 📈 YouTube video záznamy z konzultácií Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
+## Témy zaverečných prác
+### 2022
+1. Automatizácia reklamných kampaní
+2. Nasadenie a využívanie Google Analytics 4 vo vybranej spoločnosti
+3. Remarketing v PPC kampaniach Google Ads
+4. Možnosti využitia Google Ads v podmienkach vybraného podniku
+5. Využitie umelej inteligencie v copywritingu
+
+### 2021
+1. Možnosti využitia Google Analytics v podmienkach vybraného podniku
+2. Budovanie značky prostredníctvom sociálnych sietí
+3. Facebook a jeho využitie v podnikaní
+4. Tvorba a propagácia eshopu
+5. YouTube a jeho využitie v podnikaní
+6. LinkedIn a jeho využitie vo vybranej spoločnosti 
+
+### 2022
+1. Digitálny marketing: online reklama a jej použitie
+2. Marketing na sociálnych sieťach
+3. Marketing na sociálnych sieťach vybraného podniku
+4. Možnosti využitia Google Ads v podmienkach vybraného podniku
