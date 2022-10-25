@@ -1,6 +1,6 @@
 # 📔 Vedenie Bakalárske a Diplomové Práce
 * Konzultácie a Online Kurz Vedenie Bakalárskych a Diplomových Prác
-* Univerzita Komenského v Bratislave Fakulta managementu UK FM
+* Univerzita Komenského v Bratislave Fakulta managementu UK FM, Vysoká škola DTI
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
 
