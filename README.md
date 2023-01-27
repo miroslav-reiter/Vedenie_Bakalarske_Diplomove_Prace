@@ -11,6 +11,15 @@
 4. Za 1. semester vypracovať **projekt Bc./DP práce**
 5. Viesť si **výkaz konzultácií**, kde vám na konci semestra udelím známku
 
+## 👨‍🏫 Čo treba za 2. semester k BC/DP práci
+Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokončiť**
+
+1. Súčasný stav riešenej problematiky t.j. Teoretickú časť už korektne ukončiť aj s príslušnými citáciami, doplniť krížové odkazy, popisy obrázkov, tabuľiek a grafov
+2. Spracovať ciele a metodiku práce vrátane čiastkových (parciálnych) cieľov, vybrať výskumný súbor, vzorku a metódy spracovania údajov/vedecké metódy, stanovanie a overenie hypotéz
+3. Spracovať praktickú časť práce, doplniť prílohy
+4. Napísať koniec
+5. Napísať abstrakt (SK, EN), aktualizovať obsah aj s číslom strán. Ideálne aktualizovať odkazy v celom dokument (Ctrl + A a potom F9)
+
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
 ## 👍 Odporúčania a tipy
