@@ -48,6 +48,16 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## 🎖️ Témy zaverečných prác
+### 2023-2024
+Diplomové práca
+1. Tvorba a propagácia eshopu na platforme WooCommerce vo vybranom podniku (Creation and promotion of an e-shop on the WooCommerce platform in the selected company)
+2. Výkonnostný marketing vo vybranej spoločnosti (Performance marketing in the selected company)
+3. Procesný manažment s pomocou BPMN vo vybranom podniku (Process management with BPMN in the selected company)
+
+Bakalárske práce:
+1. Zvyšovanie výkonnosti a dostupnosti webovej stránky (Increasing the performance and availability of the website)
+2. Time manažment efektívnych podnikov (Time management of effective businesses)
+
 ### 2022-2023
 1. Automatizácia reklamných kampaní
 2. Nasadenie a využívanie Google Analytics 4 vo vybranej spoločnosti
