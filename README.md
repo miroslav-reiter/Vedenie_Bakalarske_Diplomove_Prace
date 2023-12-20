@@ -39,7 +39,7 @@ Zlaté pravidlá hypotézy:
 3)	Hypotéza vyjadruje vzťah medzi 2 premennými (menší, väčší, slabší a pod.). 
 4)	Hypotéza sa musí dať testovať (skúmať); premenné, ktoré obsahuje sa musia dať merať alebo kategorizovať.  
 
-**Prečítajte si Gavoru** vid. zdroj nižšie. Kto má rad knihy odporúčam [**Dušan Katuščák**: Ako písať záverečné a kvalifikačné práce](https://www.martinus.sk/?uItem=38249)
+**Prečítajte si Gavoru** vid. zdroj nižšie. Kto má rád knihy odporúčam [**Dušan Katuščák**: Ako písať záverečné a kvalifikačné práce](https://www.martinus.sk/?uItem=38249)
 
 Zdroj:  
 Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [online]. Bratislava : Univerzita Komenského, 2010. Dostupné na: http://www.e-metodologia.fedu.uniba.sk/ ISBN 978–80–223–2951–4.
@@ -49,7 +49,7 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 
 ## 🎖️ Témy zaverečných prác
 ### 2023-2024
-Diplomové práca
+Diplomové práce:
 1. Tvorba a propagácia eshopu na platforme WooCommerce vo vybranom podniku (Creation and promotion of an e-shop on the WooCommerce platform in the selected company)
 2. Výkonnostný marketing vo vybranej spoločnosti (Performance marketing in the selected company)
 3. Procesný manažment s pomocou BPMN vo vybranom podniku (Process management with BPMN in the selected company)
