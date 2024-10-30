@@ -2,7 +2,7 @@
 * Konzultácie a Online Kurz Vedenie Bakalárskych a Diplomových Prác
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM, Vysoká škola DTI
 * Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
-* Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
+* Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk 
 
 ## 👨‍🏫 Čo treba za 1. semester k BC/DP práci
 1. Preštudovať **smernicu dekana** (Vnútorný predpis) k záverečným prácami (pozrieť či na webe nie je aktualizovaná verzia)
