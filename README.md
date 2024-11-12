@@ -48,6 +48,17 @@ Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [onl
 [YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## 🎖️ Témy zaverečných prác
+### 2024-2025
+Diplomové práce:
+1. User Experience optimalizácia webstránky vo WordPresse (User Experience optimization of a website in WordPress)
+1. Možnosti využitia Google Ads v podmienkach vybraného podniku (Possibilities of using Google Ads in the conditions of the selected company)
+1. Marketingové trendy umelej inteligencie (Artificial intelligence marketing trends)
+1. Využitie umelej inteligencie vo vybranej spoločnosti (Use of artificial intelligence in the selected company)
+1. Návrh online marketingovej stratégie pre vybraný podnik (Proposal of an online marketing strategy for a selected company)
+1. Tvorba SEO auditu vo vybranej spoločnosti (Creating an SEO audit in the selected company)
+1. Využitie obsahového marketingu vo vybranej spoločnosti (Use of content marketing in the selected company)
+1. Možnosti využitia PPC kampaní a reklám v podmienkach vybraného podniku (The possibilities of using PPC campaigns and advertisements in the conditions of the selected company)
+
 ### 2023-2024
 Diplomové práce:
 1. Tvorba a propagácia eshopu na platforme WooCommerce vo vybranom podniku (Creation and promotion of an e-shop on the WooCommerce platform in the selected company)
