@@ -64,6 +64,21 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 1. Odovzdať prihlášku na štátne skúšky do rovnakého termínu
 1. Absolvovať obhajobu diplomovej práce a štátnu skúšku najneskôr do 30. júna
 
+## 🎓 Požiadavky na záverečnú prácu Doplňujúce pedagogické štúdium (DPŠ)
+### 📄 1. semester (zimný)
+Zvoliť tému záverečnej práce v súlade s absolvovanými predmetmi a konzultovať ju s prideleným vedúcim práce.
+Preštudovať smernicu č. R-1/2024: „Pravidlá spracovania záverečných a rigoróznych prác“ (platná od októbra 2024).
+Oboznámiť sa s normami STN ISO 690 a STN ISO 690-2 pre správne citovanie a tvorbu bibliografických odkazov.
+Začať s rešeršou odbornej literatúry a vypracovať úvodné kapitoly práce.
+Viesť si výkaz konzultácií s vedúcim práce, ktorý bude hodnotený na konci semestra.
+
+### 📄 2. semester (letný)
+Dokončiť teoretickú časť práce, zabezpečiť správne citácie a formálne úpravy podľa smernice.
+Spracovať metodickú a praktickú časť práce, vrátane analýzy, interpretácie výsledkov a návrhov pre pedagogickú prax.
+Napísať záver práce, ktorý obsahuje sumarizáciu výsledkov a odporúčania pre prax.
+Pridať abstrakt v slovenskom a anglickom jazyku, kľúčové slová a zoznam použitej literatúry.
+Finalizovať formálnu úpravu práce – aktualizácia obsahu, číslovanie strán, odkazov (Ctrl + A → F9).
+
 ## 👍 Odporúčania a tipy
 1. Používať na zdroje [**Zotero**](https://www.zotero.org/), [**Mendeley**](https://www.mendeley.com/), inú aplikáciu
 2. Do práce pridať **vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky** (v dokumentoch šablóny)
