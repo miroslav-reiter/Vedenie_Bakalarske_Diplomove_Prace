@@ -13,7 +13,7 @@ Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://githu
 ## 🎓 Bakalárska práca (Bc.)
 ### 📘 3. ročník – 1. semester (september – december)
 1. Preštudovať aktuálny **vnútorný predpis dekana (smernica)** o záverečných prácach (dokument je dostupný na webe fakulty – skontrolovať aktualizovanú verziu)
-1. Oboznámiť sa s** normou ISO 690** – Pravidlá tvorby bibliografických odkazov, aplikovať ich už od začiatku písania: dokument [Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
+1. Oboznámiť sa s** normou ISO 690** – Pravidlá tvorby bibliografických odkazov, aplikovať ich už od začiatku písania: dokument [**Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690**](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
 1. Preštudovať si [**CRZP Centrálny Register Záverečných Prác**](https://opac.crzp.sk/?fn=*AdvancedSearch&search=advanced&entity=0&seo=CRZP-Hľadanie) – pozrieť moje práce aj cudzie práce s podobnou témou ako inšpiráciu najmä pre štruktúru, metodiku a použité zdroje
 1. Spracovať **projekt bakalárskej práce** – základné zameranie, hlavný cieľ, parciálne ciele, navrhovaná metodika, predbežná osnova a časový harmonogram - dokument projekt
 1. Konzultovať pravidelne s vedúcim práce – viesť si **výkaz konzultácií**, ktorý bude hodnotený známkou na konci semestra
@@ -32,15 +32,44 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 1. Odovzdať prácu a prihlášku na štátnu skúšku do 31. mája alebo auguster/september ak ste si dali neskorší dátum
 1. Absolvovať obhajobu bakalárskej práce v júni podľa rozpisu zverejneného študijným oddelením
 
+## 🎓 Diplomová práca (Mgr. Ing)
+### 📗 1. ročník – 1. semester (september – december)
+1. Vybrať tému diplomovej práce najneskôr do 31. októbra, potvrdiť ju u vedúceho práce a oficiálne ju zaregistrovať podľa pokynov fakulty
+1. Preštudovať aktuálny vnútorný predpis dekana k záverečným prácam a uistiť sa, že pracujete s aktuálnou verziou (zverejnené na fm.uniba.sk)
+1. Oboznámiť sa s dokumentom Pravidlá tvorby bibliografických odkazov podľa ISO 690 a aplikovať ho počas celého písania práce
+1. Prezrieť si vybrané práce v CRZP (Centrálny register záverečných prác), najmä práce z rovnakého alebo príbuzného odboru – inšpirácia pre štruktúru a zdroje
+1. Spracovať a odovzdať projekt diplomovej práce, ktorý obsahuje: názov práce, hlavnú a parciálne ciele, predbežnú osnovu, popis metodiky a predpokladané prínosy
+1. Začať pravidelné konzultácie s vedúcim práce a viesť si výkaz konzultácií, ktorý bude na konci semestra hodnotený
+1. Spracovať základné kapitoly teoretickej časti – stav poznania, prehľad odbornej literatúry, pojmy, modely a prístupy súvisiace s témou
 
+### 📗 1. ročník – 2. semester (február – jún)
+1. Dokončiť teoretickú časť práce, doplniť korektné citácie, krížové odkazy, odkazy na tab. a obr., poznámky pod čiarou
+1. Jasne formulovať výskumné otázky, hypotézy, ciele, a opísať výber výskumnej vzorky a metodiku práce (napr. dotazník, prípadová štúdia, štatistické metódy)
+1. Vytvoriť metodickú kapitolu, ktorá definuje výskumné nástroje, analytický rámec a plán zberu údajov
+1. Začať so zberom dát alebo analytickým spracovaním (ak sa realizuje výskum v tomto období)
+1. Konzultovať priebežný pokrok a aktualizovať výkaz konzultácií
 
+### 📗 2. ročník – 1. semester (september – december)
+1. Pokračovať v práci na praktickej časti – prezentovať výskumné výsledky, grafy, tabuľky, analytické výstupy
+1. Vyhodnotiť hypotézy, porovnať ich s očakávaniami a podložiť ich interpretáciou
+1. Spracovať kapitolu záver a odporúčania pre prax, ktorá reflektuje ciele práce, obmedzenia, možnosti aplikácie výsledkov
+1. Priebežne upravovať a kontrolovať celý text – štylistika, konzistencia formátu, aktualizácia citácií
+1. Finalizovať zoznam použitej literatúry v súlade s ISO 690
 
+### 📗 2. ročník – 2. semester (február – máj)
+1. Dokončiť všetky časti diplomovej práce – najmä zhrnutie výsledkov, odporúčania, záver
+1. Napísať abstrakt v slovenskom aj anglickom jazyku, vybrať kľúčové slová a skontrolovať jazykovú a odbornú stránku textu
+1. Vygenerovať a skontrolovať automatický obsah, číslovanie strán a aktualizáciu všetkých odkazov v dokumente (Ctrl + A → F9)
+1. Odovzdať prácu elektronicky aj fyzicky podľa aktuálnych pokynov najneskôr do 19. mája
+1. Odovzdať prihlášku na štátne skúšky do rovnakého termínu
+1. Absolvovať obhajobu diplomovej práce a štátnu skúšku najneskôr do 30. júna
 
 ## 👍 Odporúčania a tipy
 1. Používať na zdroje [**Zotero**](https://www.zotero.org/), [**Mendeley**](https://www.mendeley.com/), inú aplikáciu
 2. Do práce pridať **vlastné vizualizácie/grafy/diagramy/dashboardy/obrázky** (v dokumentoch šablóny)
 3. Štruktúrovať celý dokument cez **Nadpisy** (N1-H1) a **podnadpisy** (N2-H2). Boh chráň robiť obsah cez písanie bodiek...
 4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu **Vložiť Popis** (Pravé tlačidlo myši na obrázok, nie manuálne)
+5. Ukladajte si priebežne všetky podklady, konzultácie a verzie práce do cloudového úložiska (napr. Microsoft OneDrive, Google Drive), aby ste predišli strate dát
 
 ## 🧪 Hypotézy
 Hypotéza je výskumný predpoklad. To znamená, že vyjadruje, čo si **vy osobne myslíte o danej problematike a probléme**. Vyjadruje určitý **názor výskumníka**.
