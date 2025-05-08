@@ -4,7 +4,7 @@
 * Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk
 
-# 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr. / Ing.)
+# 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr. a Ing. / DPŠ)
 🔔 Dôležité: Študent je povinný samostatne sledovať aktuálny harmonogram štúdia a všetky oficiálne termíny na stránke FM UK:
 👉 https://www.fm.uniba.sk/studentsky-servis/harmonogram-studia-pre-bakalarsky-a-magistersky-stupen  
 👉 https://www.dti.sk/p/9-harmonogram-akademickeho-roka-2024-2025  
@@ -66,18 +66,19 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 
 ## 🎓 Požiadavky na záverečnú prácu Doplňujúce pedagogické štúdium (DPŠ)
 ### 📄 1. semester (zimný)
-Zvoliť tému záverečnej práce v súlade s absolvovanými predmetmi a konzultovať ju s prideleným vedúcim práce.
-Preštudovať smernicu č. R-1/2024: „Pravidlá spracovania záverečných a rigoróznych prác“ (platná od októbra 2024).
-Oboznámiť sa s normami STN ISO 690 a STN ISO 690-2 pre správne citovanie a tvorbu bibliografických odkazov.
-Začať s rešeršou odbornej literatúry a vypracovať úvodné kapitoly práce.
-Viesť si výkaz konzultácií s vedúcim práce, ktorý bude hodnotený na konci semestra.
+1. Zvoliť tému záverečnej práce v súlade s absolvovanými predmetmi a konzultovať ju s prideleným vedúcim práce.
+1. Preštudovať smernicu č. R-1/2024: „Pravidlá spracovania záverečných a rigoróznych prác“ (platná od októbra 2024). Dokument je dostupný na webe fakulty – skontrolovať aktualizovanú verziu.
+1. Oboznámiť sa s normami STN ISO 690 a STN ISO 690-2 pre správne citovanie a tvorbu bibliografických odkazov.
+1. Začať s rešeršou odbornej literatúry a vypracovať úvodné kapitoly práce.
+1. Viesť si výkaz konzultácií s vedúcim práce, ktorý bude hodnotený na konci semestra.
+1. Vytvoriť základnú štruktúru práce: úvod, teoretická časť (revízia literatúry).
 
 ### 📄 2. semester (letný)
-Dokončiť teoretickú časť práce, zabezpečiť správne citácie a formálne úpravy podľa smernice.
-Spracovať metodickú a praktickú časť práce, vrátane analýzy, interpretácie výsledkov a návrhov pre pedagogickú prax.
-Napísať záver práce, ktorý obsahuje sumarizáciu výsledkov a odporúčania pre prax.
-Pridať abstrakt v slovenskom a anglickom jazyku, kľúčové slová a zoznam použitej literatúry.
-Finalizovať formálnu úpravu práce – aktualizácia obsahu, číslovanie strán, odkazov (Ctrl + A → F9).
+1. Dokončiť teoretickú časť práce, zabezpečiť správne citácie a formálne úpravy podľa smernice.
+1. Spracovať metodickú a praktickú časť práce, vrátane analýzy, interpretácie výsledkov a návrhov pre pedagogickú prax.
+1. Napísať záver práce, ktorý obsahuje sumarizáciu výsledkov a odporúčania pre prax.
+1. Pridať abstrakt v slovenskom a anglickom jazyku, kľúčové slová a zoznam použitej literatúry.
+1. Finalizovať formálnu úpravu práce – aktualizácia obsahu, skontrolovať pravopis a gramatiku (F7), číslovanie strán, odkazov (Ctrl + A → F9).
 
 ## 👍 Odporúčania a tipy
 1. Používať na zdroje [**Zotero**](https://www.zotero.org/), [**Mendeley**](https://www.mendeley.com/), inú aplikáciu
