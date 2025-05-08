@@ -1,19 +1,20 @@
 # 📔 Vedenie Bakalárske a Diplomové Práce
-* Konzultácie a Online Kurz Vedenie Bakalárskych a Diplomových Prác
+* Konzultácie a online kurz Vedenie bakalárskych a diplomových prác
 * Univerzita Komenského v Bratislave Fakulta managementu UK FM, Vysoká škola DTI
 * Prednášajúci: RNDr. PhDr. Ing. Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: riaditel@itacademy.sk | miroslav.reiter@fm.uniba.sk
 
-# 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr.)
+# 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr. / Ing.)
 🔔 Dôležité: Študent je povinný samostatne sledovať aktuálny harmonogram štúdia a všetky oficiálne termíny na stránke FM UK:
 👉 https://www.fm.uniba.sk/studentsky-servis/harmonogram-studia-pre-bakalarsky-a-magistersky-stupen
+👉 https://www.dti.sk/p/9-harmonogram-akademickeho-roka-2024-2025
 
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
 ## 🎓 Bakalárska práca (Bc.)
 ### 📘 3. ročník – 1. semester (september – december)
 1. Preštudovať aktuálny **vnútorný predpis dekana (smernica)** o záverečných prácach (dokument je dostupný na webe fakulty – skontrolovať aktualizovanú verziu)
-1. Oboznámiť sa s** normou ISO 690** – Pravidlá tvorby bibliografických odkazov, aplikovať ich už od začiatku písania: dokument [**Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690**](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
+1. Oboznámiť sa s **normou ISO 690** – Pravidlá tvorby bibliografických odkazov, aplikovať ich už od začiatku písania: dokument [**Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690**](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
 1. Preštudovať si [**CRZP Centrálny Register Záverečných Prác**](https://opac.crzp.sk/?fn=*AdvancedSearch&search=advanced&entity=0&seo=CRZP-Hľadanie) – pozrieť moje práce aj cudzie práce s podobnou témou ako inšpiráciu najmä pre štruktúru, metodiku a použité zdroje
 1. Spracovať **projekt bakalárskej práce** – základné zameranie, hlavný cieľ, parciálne ciele, navrhovaná metodika, predbežná osnova a časový harmonogram - dokument projekt
 1. Konzultovať pravidelne s vedúcim práce – viesť si **výkaz konzultácií**, ktorý bude hodnotený známkou na konci semestra
@@ -34,12 +35,11 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 
 ## 🎓 Diplomová práca (Mgr. Ing)
 ### 📗 1. ročník – 1. semester (september – december)
-1. Vybrať tému diplomovej práce najneskôr do 31. októbra, potvrdiť ju u vedúceho práce a oficiálne ju zaregistrovať podľa pokynov fakulty
-1. Preštudovať aktuálny vnútorný predpis dekana k záverečným prácam a uistiť sa, že pracujete s aktuálnou verziou (zverejnené na fm.uniba.sk)
-1. Oboznámiť sa s dokumentom Pravidlá tvorby bibliografických odkazov podľa ISO 690 a aplikovať ho počas celého písania práce
-1. Prezrieť si vybrané práce v CRZP (Centrálny register záverečných prác), najmä práce z rovnakého alebo príbuzného odboru – inšpirácia pre štruktúru a zdroje
-1. Spracovať a odovzdať projekt diplomovej práce, ktorý obsahuje: názov práce, hlavnú a parciálne ciele, predbežnú osnovu, popis metodiky a predpokladané prínosy
-1. Začať pravidelné konzultácie s vedúcim práce a viesť si výkaz konzultácií, ktorý bude na konci semestra hodnotený
+1. Preštudovať aktuálny **vnútorný predpis dekana (smernica)** o záverečných prácach (dokument je dostupný na webe fakulty – skontrolovať aktualizovanú verziu)
+1. Oboznámiť sa s **normou ISO 690** – Pravidlá tvorby bibliografických odkazov, aplikovať ich už od začiatku písania: dokument [**Pravidlá tvorby bibliografických odkazov na informačné zdroje podľa ISO 690**](http://stella.uniba.sk/texty/690-2010_priklady.pdf)
+1. Preštudovať si [**CRZP Centrálny Register Záverečných Prác**](https://opac.crzp.sk/?fn=*AdvancedSearch&search=advanced&entity=0&seo=CRZP-Hľadanie) – pozrieť moje práce aj cudzie práce s podobnou témou ako inšpiráciu najmä pre štruktúru, metodiku a použité zdroje
+1. Spracovať a odovzdať **projekt diplomovej práce**, ktorý obsahuje: názov práce, hlavnú a parciálne ciele, predbežnú osnovu, popis metodiky a predpokladané prínosy - dokument projekt
+1. Začať pravidelné konzultácie s vedúcim práce a **viesť si výkaz konzultácií**, ktorý bude na konci semestra hodnotený
 1. Spracovať základné kapitoly teoretickej časti – stav poznania, prehľad odbornej literatúry, pojmy, modely a prístupy súvisiace s témou
 
 ### 📗 1. ročník – 2. semester (február – jún)
@@ -59,7 +59,7 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 ### 📗 2. ročník – 2. semester (február – máj)
 1. Dokončiť všetky časti diplomovej práce – najmä zhrnutie výsledkov, odporúčania, záver
 1. Napísať abstrakt v slovenskom aj anglickom jazyku, vybrať kľúčové slová a skontrolovať jazykovú a odbornú stránku textu
-1. Vygenerovať a skontrolovať automatický obsah, číslovanie strán a aktualizáciu všetkých odkazov v dokumente (Ctrl + A → F9)
+1. Vygenerovať a skontrolovať automatický obsah, skontrolovať pravopis a gramatiku (F7), číslovanie strán a aktualizáciu všetkých odkazov v dokumente (Ctrl + A → F9)
 1. Odovzdať prácu elektronicky aj fyzicky podľa aktuálnych pokynov najneskôr do 19. mája
 1. Odovzdať prihlášku na štátne skúšky do rovnakého termínu
 1. Absolvovať obhajobu diplomovej práce a štátnu skúšku najneskôr do 30. júna
