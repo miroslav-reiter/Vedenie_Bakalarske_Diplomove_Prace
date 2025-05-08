@@ -6,8 +6,8 @@
 
 # 📑 Požiadavky na spracovanie a odovzdanie záverečnej práce (Bc. / Mgr. / Ing.)
 🔔 Dôležité: Študent je povinný samostatne sledovať aktuálny harmonogram štúdia a všetky oficiálne termíny na stránke FM UK:
-👉 https://www.fm.uniba.sk/studentsky-servis/harmonogram-studia-pre-bakalarsky-a-magistersky-stupen
-👉 https://www.dti.sk/p/9-harmonogram-akademickeho-roka-2024-2025
+👉 https://www.fm.uniba.sk/studentsky-servis/harmonogram-studia-pre-bakalarsky-a-magistersky-stupen  
+👉 https://www.dti.sk/p/9-harmonogram-akademickeho-roka-2024-2025  
 
 Všetky dokumenty sú tu na **GitHube** v **[priečinku Dokumenty](https://github.com/miroslav-reiter/Vedenie_Bakalarske_Diplomove_Prace/tree/main/Dokumenty)**
 
