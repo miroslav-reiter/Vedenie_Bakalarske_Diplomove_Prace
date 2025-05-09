@@ -106,7 +106,7 @@ Zdroj:
 Gavora, Peter a kol. 2010. Elektronická učebnica pedagogického výskumu. [online]. Bratislava : Univerzita Komenského, 2010. Dostupné na: http://www.e-metodologia.fedu.uniba.sk/ ISBN 978–80–223–2951–4.
 
 ## 📈 YouTube video záznamy z konzultácií Playlist
-[YouTube kanál IT Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
+[YouTube kanál Miroslav Reiter VITA Academy](https://www.youtube.com/playlist?list=PLIu_ZdHo7Pk8WX2UPhxZaQW0SOZnED1sY)
 
 ## 🎖️ Témy zaverečných prác
 ### 2024-2025
