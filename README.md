@@ -69,6 +69,7 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 1. Zvoliť tému záverečnej práce v súlade s absolvovanými predmetmi a konzultovať ju s prideleným vedúcim práce.
 1. Preštudovať smernicu č. R-1/2024: „Pravidlá spracovania záverečných a rigoróznych prác“ (platná od októbra 2024). Dokument je dostupný na webe fakulty – skontrolovať aktualizovanú verziu.
 1. Oboznámiť sa s normami STN ISO 690 a STN ISO 690-2 pre správne citovanie a tvorbu bibliografických odkazov.
+1. Vytvoriť si anotáciu (3-5 viet charakterizujúcich obsah, zameranie a ciele záverečnej práce)
 1. Začať s rešeršou odbornej literatúry a vypracovať úvodné kapitoly práce.
 1. Viesť si výkaz konzultácií s vedúcim práce, ktorý bude hodnotený na konci semestra.
 1. Vytvoriť základnú štruktúru práce: úvod, teoretická časť (revízia literatúry).
@@ -86,6 +87,7 @@ Krátka odpoveď: **všetko** a **všetko, čo ste nestihli za 1. semester dokon
 3. Štruktúrovať celý dokument cez **Nadpisy** (N1-H1) a **podnadpisy** (N2-H2). Boh chráň robiť obsah cez písanie bodiek...
 4. Obrázkom, tabuľkam, grafov dávať popis cez funkciu **Vložiť Popis** (Pravé tlačidlo myši na obrázok, nie manuálne)
 5. Ukladajte si priebežne všetky podklady, konzultácie a verzie práce do cloudového úložiska (napr. Microsoft OneDrive, Google Drive), aby ste predišli strate dát
+6. Treba si uvedomiť, že to je vaša záverečná práca a vaša vizitka. Preto odporúčam pristupovať k napísaniu práce seríozne. Vy musíte napísať a vytvoriť záverečnú prácu. Mojou úlohou je vás viesť, dať odporúčania a nasmerovať vás.
 
 ## 🧪 Hypotézy
 Hypotéza je výskumný predpoklad. To znamená, že vyjadruje, čo si **vy osobne myslíte o danej problematike a probléme**. Vyjadruje určitý **názor výskumníka**.
